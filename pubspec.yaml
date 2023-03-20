@@ -1,0 +1,29 @@
+name: calico_support_app
+description: Calico Support App
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  yaml: ^3.1.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/cats.yaml
+    - assets/images/
+    - assets/images/orig/
+    - assets/sounds/

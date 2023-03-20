@@ -1,0 +1,21 @@
+cats:
+  - name: 'Elvis'
+    complexityLevel: 1
+  - name: 'Alf'
+    complexityLevel: 1
+  - name: 'Lalli'
+    complexityLevel: 1
+  - name: 'Masja'
+    complexityLevel: 1
+  - name: 'Cookie'
+    complexityLevel: 2
+  - name: 'Mone'
+    complexityLevel: 2
+  - name: 'Paola'
+    complexityLevel: 2
+  - name: 'Lila'
+    complexityLevel: 2
+  - name: 'Fox'
+    complexityLevel: 3
+  - name: 'Mike'
+    complexityLevel: 3
